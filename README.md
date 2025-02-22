@@ -1,5 +1,5 @@
 <div align="center">
-<img width="110px" src="https://raw.githubusercontent.com/promptslab/Promptify/main/assets/logo.png">
+<img width="110px" src="https://raw.githubusercontent.com/promptslab/Promptify/main/assets/logo.png">rsr951910@gmail.com 
 <h1>Promptify</h1></div>
 <!-- 
 <h2 align="center">Promptify</h2> -->
